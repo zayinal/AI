@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1090384844755",
+    "project_id": "cottonpre-da087",
+    "storage_bucket": "cottonpre-da087.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090384844755:android:0d0b3dc50b530217cb4126",
+        "android_client_info": {
+          "package_name": "com.example.cotton_prediction"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTpsbeRQfO1icD1II67tIR3rZNdcRyraQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
